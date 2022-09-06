@@ -18,5 +18,5 @@
 
 ## QUOTES
    
-   > Arthur C Claarke : "Any sufficiently adavnced technology is inditinguishbale from magic"
+   > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
    
