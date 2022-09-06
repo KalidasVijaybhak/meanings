@@ -20,3 +20,4 @@
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
    
+   >Nikola Tesla : "The spread of civilisation may be likened to a fire, first a feeble spark, next a flickering flame, then a mighty blaze ever increasing in speed and power" 
