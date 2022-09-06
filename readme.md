@@ -15,3 +15,8 @@
            
    5. Assent
         >  the expression of approval or agreement.
+
+## QUOTES
+   
+   > Arthur C Claarke : "Any sufficiently adavnced technology is inditinguishbale from magic"
+   
