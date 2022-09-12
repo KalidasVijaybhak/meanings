@@ -17,7 +17,11 @@
         >  the expression of approval or agreement.
 
    6. Forsake
-   		>  abandoned or  deserted 
+   		>  abandoned or  deserted
+   7. Solitude
+   		>  state or situation of being alone
+   8. Prospect
+   		> the possibility or likelihood of some future event occurring 
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
