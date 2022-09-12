@@ -16,6 +16,8 @@
    5. Assent
         >  the expression of approval or agreement.
 
+   6. Forsake
+   		>  abandoned or  deserted 
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
