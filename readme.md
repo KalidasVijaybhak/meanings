@@ -21,7 +21,9 @@
    7. Solitude
    		>  state or situation of being alone
    8. Prospect
-   		> the possibility or likelihood of some future event occurring 
+   		> the possibility or likelihood of some future event occurring
+   9. Dichotomy
+   		>a division or contrast between two things that are or are represented as being opposed or entirely different. 
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
