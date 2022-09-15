@@ -33,6 +33,7 @@
    >Nikola Tesla : "The spread of civilisation may be likened to a fire, first a feeble spark, next a flickering flame, then a mighty blaze ever increasing in speed and power" 
    
 >Jim Rickards(Financial analyst): "Figuring our financial collapses is like trying to figure out which snowflake caused the avalanche"
+
 > The word cimputer originated in the 1640s and it means 'one who calculates' in the 17th century it was person whose profession was computing using tables.
 Charles Babbage"If physical machines can do physical work why cant physical machines do mental work."
 
