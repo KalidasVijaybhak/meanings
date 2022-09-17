@@ -26,6 +26,8 @@
    		>a division or contrast between two things that are or are represented as being opposed or entirely different. 
    10. Touche 
          >used to admit that someone has made a good point against you in an argument or discussion:
+   11. Usurpes
+          > take (a position of power or importance) illegally or by force.
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
