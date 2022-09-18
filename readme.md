@@ -28,6 +28,10 @@
          >used to admit that someone has made a good point against you in an argument or discussion:
    11. Usurpes
           > take (a position of power or importance) illegally or by force.
+   12. Discretion
+   		  >the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.
+
+   		  >the freedom to decide what should be done in a particular situation.
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
