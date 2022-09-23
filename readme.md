@@ -29,9 +29,11 @@
    11. Usurpes
           > take (a position of power or importance) illegally or by force.
    12. Discretion
-   		  >the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.
+   		 >the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.
 
-   		  >the freedom to decide what should be done in a particular situation.
+          >the freedom to decide what should be done in a particular situation.
+   13. Complacent
+           >showing smug or uncritical satisfaction with oneself or one's achievements.
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
