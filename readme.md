@@ -33,7 +33,8 @@
 
           >the freedom to decide what should be done in a particular situation.
    13. Complacent
-           >showing smug or uncritical satisfaction with oneself or one's achievements.
+   
+          >showing smug or uncritical satisfaction with oneself or one's achievements.
 ## QUOTES
    
    > Arthur C Clarke : "Any sufficiently advanced technology is indistinguishable from magic"
