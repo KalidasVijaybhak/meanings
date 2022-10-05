@@ -46,4 +46,4 @@
 > The word cimputer originated in the 1640s and it means 'one who calculates' in the 17th century it was person whose profession was computing using tables.
 Charles Babbage"If physical machines can do physical work why cant physical machines do mental work."
 
-
+> what goes around comes around
