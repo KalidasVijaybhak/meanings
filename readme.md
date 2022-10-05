@@ -47,3 +47,6 @@
 Charles Babbage"If physical machines can do physical work why cant physical machines do mental work."
 
 > what goes around comes around
+
+> people might forget what you said but not forget how you made them feel.
+
